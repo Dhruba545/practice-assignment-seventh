@@ -10,3 +10,16 @@
     font-weight: 400;
     font-size: 18px;
 }
+.cart1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 50%;
+    
+}
+.cart2{
+    width: 50%;
+    background: rgba(0, 87, 128, 0.604);
+}
+.cart0{
+    display: flex;
+}
