@@ -1,0 +1,69 @@
+[
+
+    {
+    "image" : "https://th.bing.com/th/id/R.885c5b5a6cd06d7f8576ca2686def6d9?rik=C51m%2bjrs319Lyw&riu=http%3a%2f%2fi.ytimg.com%2fvi%2fEGDsMNOQBBg%2fmaxresdefault.jpg&ehk=2g4UM7JekPIGexu9RIw7lhZ6WNonvFoJgUY6mRWgRxQ%3d&risl=&pid=ImgRaw&r=0" ,
+    "id"    : 1  , 
+    "name" : "Bangla chicken " , 
+    "info" : "Bangla Chicken is a popular dish from Bangladesh, known for its rich flavors and aromatic spices. Here's a simple recipe for Bangla Chicken ", 
+    "ingredient"  : ["chicken" , "Onion" , "Cumin" , "Gralic" , "turmeric"] , 
+    "time" : " 1 hour ", 
+    "calories" : "450 calorie"
+    
+    }
+    ,
+    {
+    "image" : "https://th.bing.com/th/id/OIP.Ckxpu1puIDifWE3WJb6uPwHaEk?rs=1&pid=ImgDetMain" ,
+    "id"    : 2  , 
+    "name" : "Bangla Fishes " , 
+    "info" : " Bangla Fish, also known as Maacher Jhol, is a traditional Bengali fish curry that's flavorful and comforting. Here's a simple recipe for Bangla Fish", 
+    "ingredient"  : ["Fish" , "Onion" , "Cumin" , "Gralic" , "turmeric"] , 
+    "time" : " 40 minite ", 
+    "calories" : "400 calorie"
+    
+    }
+    ,
+    {
+    "image" : "https://th.bing.com/th/id/R.a03c397000a1c33a75d838e46d9c6a6f?rik=Bebj%2bX1Zv5Is7A&pid=ImgRaw&r=0" ,
+    "id"    : 3  , 
+    "name" : "Shrimp " , 
+    "info" : "Here's a tasty Bangladeshi recipe for shrimp curry, known as Chingri Macher Malai Curry", 
+    "ingredient"  : ["shrimp" , "Onion" , "Cumin" , "Gralic" , "turmeric"] , 
+    "time" : " 40 ", 
+    "calories" : "150 calorie"
+    
+    }
+    ,
+    {
+    "image" : "https://th.bing.com/th/id/R.f8e7a0fb4cb6de6794a0e1d367d0b032?rik=ER9KhI94fa85GQ&riu=http%3a%2f%2fwallpapersdsc.net%2fwp-content%2fuploads%2f2016%2f09%2fBurger-Photos.jpg&ehk=yPw6GMpMd1%2bm8SgwN%2bHpDP4BDkOGEhc%2b45DQHVVo%2b34%3d&risl=&pid=ImgRaw&r=0",
+    "id"    : 4  , 
+    "name" : "Berger " , 
+    "info" : "Certainly Berger typically refers to a popular Bangladeshi street food known as Berger. It's a type of burger with a Bangladeshi twist, often made with a spiced patty and served with various flavorful", 
+    "ingredient"  : ["Flour" , "Onion" , "Cumin" , "Gralic" , "turmeric"] , 
+    "time" : " 1 hour ", 
+    "calories" : "450 calorie"
+    
+    }
+    ,
+    {
+    "image" : "https://shiva-kriti.com/wp-content/uploads/2021/09/Ghee-Rice.jpg" ,
+    "id"    : 5  , 
+    "name" : "Ghi Rice" , 
+    "info" : " It's a popular dish in various cuisines, including Indian and Bangladeshi. Here's a simple recipe for making ghee rice " ,
+    "ingredient"  : ["Milk" , "Rice" , "Hit"] , 
+    "time" : " 1 hour ", 
+    "calories" : "750 calorie"
+    
+    }
+    ,
+    {
+    "image" : "https://sweetandsavorymeals.com/wp-content/uploads/2020/02/beet-salad-SweetAndSavoryMeals-4.jpg" ,
+    "id"    : 6  , 
+    "name" : "Salad" , 
+    "info" : "Certainly Here's a simple recipe for a refreshing Bangladeshi-style salad ", 
+    "ingredient"  : ["Salt to taste" , "Onion" , "Juice of 1 lemon" , "Gralic" , "2 medium-sized tomatoes"] , 
+    "time" : " 1 hour ", 
+    "calories" : "100 calorie"
+    
+    }
+    
+    ]
